@@ -1,0 +1,2 @@
+[webservers]
+localhost ansible_port=${SSH_PORT} ansible_user=${USER} ansible_python_interpreter=/usr/bin/python3
